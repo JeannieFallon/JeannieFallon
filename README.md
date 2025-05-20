@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hello, World! 🪷
+
+I'm a software engineer with a background in education, a mind wired for systems, and a drive to build.
+
+Over the past eight years, I’ve built software, debugged production systems, and translated complex infrastructure into 
+clear, reproducible workflows. What began at a kitchen table with an old college laptop became a full-time career through 
+a journey fueled by grit, late-night problem solving, and a relentless appetite for learning.
+
+These days, I’m focused on infrastructure and automation for AI/ML systems, and always dreaming about the next app to 
+build! I’m currently pursuing a CS degree with a concentration in AI/ML to prepare for building the systems of tomorrow.
+
+## Core Features
+
+- **Lifelong learner** – Always chasing the next horizon  
+- **Builder** – Constantly sharpening systems thinking through hands-on projects  
+- **Puzzle solver** – Drawn to the hard, messy problems that others avoid  
+- **Documenter of chaos** – Known for clear, effective technical write-ups  
+
+## Current WIP
+
+- Home network monitoring lab - Local network monitoring stack (Pi-hole, Netdata, Grafana) deployed via Proxmox + Ansible
+- Local AI environment - Lightweight LLMs (e.g. Mistral, LLaMA) running locally with CUDA-based acceleration and containerized tooling
+- A.L.I.C.E. – A web app with LLM integration for analyzing digital source credibility  
 
 <!--
 **JeannieFallon/JeannieFallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
