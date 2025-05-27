@@ -2,7 +2,7 @@
 
 I'm a software engineer with a background in education, a mind wired for systems, and a drive to build.
 
-Over the past eight years in the tech industry, I’ve built software in multiple languages, debugged production systems, and 
+Over the past eight years in the tech industry, I’ve written software in multiple languages, debugged production systems, and 
 translated complex infrastructure into clear, reproducible workflows. Prior to that, I held jobs across a range 
 of industries, including high school English teacher, cocktail waitress, and deckhand on a commercial fishing boat. My path 
 into computer science began over a decade ago as a side quest at my kitchen table with an old college laptop. Through grit and a 
