@@ -1,22 +1,16 @@
 ## Hello, World! 🪷
 
-I'm a software engineer with a background in education, a mind wired for systems, and a drive to build.
+I’m a software and systems engineer focused on infrastructure, automation, and building reliable tools for AI/ML workflows.
 
-Over the past eight years in the tech industry, I’ve written software in multiple languages, debugged production systems, and 
-translated complex infrastructure into clear, reproducible workflows. Prior to that, I held jobs across a range 
-of industries, including high school English teacher, cocktail waitress, and deckhand on a commercial fishing boat. My path 
-into computer science began over a decade ago as a side quest at my kitchen table with an old college laptop. Through grit and a 
-relentless appetite for learning, I turned that side quest into a full-time career. 
+I develop full-stack applications, design containerized environments, and write automation that bridges development and operations. With 8 years of industry experience and a background in education, I bring both technical depth and clear communication to complex problems.
 
-These days, I’m focused on infrastructure and automation for AI/ML systems, and always dreaming about the next app to build! 
-To complement my academic background in English and education, I’m currently pursuing a CS degree with a concentration 
-in AI/ML to prepare for building out the systems of tomorrow.
+Currently finishing a BS in Computer Science to complement my BA in English and Education.
 
-## Current WIP
+## Current Projects
 
 - [`homelab-net`](https://github.com/JeannieFallon/homelab-net) - Local network monitoring stack (Pi-hole, Netdata, Grafana) deployed via Proxmox + Ansible
-- Local AI environment - Lightweight LLMs (e.g. Mistral, LLaMA) running locally with CUDA-based acceleration and containerized tooling
-- A.L.I.C.E. – A web app with LLM integration for analyzing digital source credibility  
+- Local AI Environment – Containerized LLM setup (Mistral, LLaMA) with CUDA acceleration
+- Orpheus – Agent-based observability framework grounded in OODA-loop design
 
 <!--
 **JeannieFallon/JeannieFallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
