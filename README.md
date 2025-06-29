@@ -8,8 +8,9 @@ Currently finishing a BS in Computer Science to complement my BA in English and 
 
 ## Current Projects
 
-- [homelab-net](https://github.com/JeannieFallon/homelab-net) - Local network monitoring stack (Pi-hole, Netdata, Grafana) deployed via Proxmox + Ansible
-- [lexicon](https://github.com/JeannieFallon/lexicon) - A portable, offline coding assistant that runs from a USB drive using local LLMs
+- [lexicon](https://github.com/JeannieFallon/lexicon): A portable, offline coding assistant that runs from a USB drive using local LLMs
+- [mercury](https://github.com/JeannieFallon/mercury): Local host auditing agent with LLM-powered analysis and automated system responses
+- [homelab-net](https://github.com/JeannieFallon/homelab-net): Local network monitoring stack (Pi-hole, Netdata, Grafana) deployed via Proxmox + Ansible
 
 <!--
 **JeannieFallon/JeannieFallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
