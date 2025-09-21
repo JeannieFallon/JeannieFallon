@@ -6,11 +6,20 @@ I develop full-stack applications, design containerized environments, and write 
 
 Currently finishing a BS in Computer Science to complement my BA in English and Education.
 
-## Current Projects
+## Portfolio
+
+### Personal Projects
+Here is a selection of independently designed projects that I am developing:
 
 - [lexicon](https://github.com/JeannieFallon/lexicon): A portable, offline coding assistant that runs from a USB drive using local LLMs
-- [mercury](https://github.com/JeannieFallon/mercury): Local host auditing agent with LLM-powered analysis and automated system responses
 - [homelab-net](https://github.com/JeannieFallon/homelab-net): Local network monitoring stack (Pi-hole, Netdata, Grafana) deployed via Proxmox + Ansible
+- [mercury](https://github.com/JeannieFallon/mercury): Local host auditing agent with LLM-powered analysis and automated system responses
+
+### Tutorials & Examples
+Here is a selection of tutorial or example projects that I have implemented:
+
+- [github-events-pipeline](https://github.com/JeannieFallon/github-events-pipeline): GitHub events ETL with Pandas
+
 
 <!--
 **JeannieFallon/JeannieFallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
