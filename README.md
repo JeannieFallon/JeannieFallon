@@ -19,6 +19,9 @@ Here is a selection of independently designed projects that I am developing:
 Here is a selection of tutorial or example projects that I have implemented:
 
 - [github-events-pipeline](https://github.com/JeannieFallon/github-events-pipeline): GitHub events ETL with Pandas
+- [todo-llm](https://github.com/JeannieFallon/todo-llm): React app with OpenAI's GPT-3.5 API to transform brain dump into a clean, prioritized task list
+
+
 
 
 <!--
