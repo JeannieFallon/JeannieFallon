@@ -6,16 +6,6 @@ I develop full-stack applications, design containerized environments, and write 
 
 Currently finishing a BS in Computer Science to complement my BA in English and Education.
 
-## Portfolio
-
-### Personal Projects
-Here are some projects that I'm currently working on:
-
-- [homelab-net](https://github.com/JeannieFallon/homelab-net): Local network monitoring stack (Pi-hole, Netdata, Grafana) deployed via Proxmox & Ansible
-- [lexicon](https://github.com/JeannieFallon/lexicon): A portable, offline coding assistant that runs from a USB drive using local LLMs
-- [ticker-talk](https://github.com/JeannieFallon/ticker-talk): An AI-Powered Financial Data Pipeline
-- [mercury](https://github.com/JeannieFallon/mercury): Local host auditing agent with LLM-powered analysis and automated system responses
-
 <!--
 **JeannieFallon/JeannieFallon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
